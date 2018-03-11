@@ -1,0 +1,6 @@
+E:\C#\AbstractCalss\AbstractCalss\bin\Debug\AbstractCalss.exe.config
+E:\C#\AbstractCalss\AbstractCalss\bin\Debug\AbstractCalss.exe
+E:\C#\AbstractCalss\AbstractCalss\bin\Debug\AbstractCalss.pdb
+E:\C#\AbstractCalss\AbstractCalss\obj\Debug\AbstractCalss.csprojResolveAssemblyReference.cache
+E:\C#\AbstractCalss\AbstractCalss\obj\Debug\AbstractCalss.exe
+E:\C#\AbstractCalss\AbstractCalss\obj\Debug\AbstractCalss.pdb
